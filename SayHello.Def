@@ -1,0 +1,6 @@
+LIBRARY SayHello
+EXPORTS 
+        pluginit
+        plugstop
+        plugsetup
+        CBMENUENTRY
