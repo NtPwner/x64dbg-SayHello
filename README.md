@@ -1,4 +1,3 @@
-# X64DBG Plugins
-This repository contains plugins that were written in MASM32.
-
-I appreciate @mrfearless and @mr.exodia's excellent work on the x64dbg sdk and x64dbg, respectively.
+hello,
+This is a dummy plugin that just displays a message box and does nothing special.
+I thought someone might find this useful :p
